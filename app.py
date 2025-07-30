@@ -7,7 +7,7 @@ from datetime import datetime, timedelta
 # =========================
 # CONFIGURAÇÕES / ENTRADAS
 # =========================
-CAMINHO_PLANILHA = r"C:\Users\Arklok\OneDrive - Quality Software SA\Documentos\Agendamentos_Rollout_2025_SO.xlsx"
+CAMINHO_PLANILHA = "Agendamentos_Rollout_2025_SO.xlsx"
 ABA = "Planilha SO"
 META_TOTAL = 346
 DATA_INICIO_ROLLOUT = datetime(2025, 7, 7)
